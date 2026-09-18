@@ -40,4 +40,4 @@ GitHub → `Kapustis72.github.io` → **Settings → Pages → Build and deploym
 - https://kapustis72.github.io/proput.html
 - https://kapustis72.github.io/grelka.html
 
-Эти URL — в поле «Политика конфиденциальности» карточек RuStore. Email поддержки: `nikola791223@gmail.com`.
+Эти URL — в поле «Политика конфиденциальности» карточек RuStore. Email поддержки: `colorconnectoriginal@yandex.ru`.
